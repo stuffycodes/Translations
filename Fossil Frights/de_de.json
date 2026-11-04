@@ -1,6 +1,8 @@
 {
   "soundCategory.record": "Fossil-Frights-Musik",
   "effect.minecraft.luck": "Doppelsprung",
+  "key.mouse.left": "Linksklick",
+  "key.mouse.right": "Rechtsklick",
   "ff.pack.description.1": "Fossil Frights\n",
   "ff.pack.description.2": "Offizielles Ressourcenpaket",
   "ff.messages.info.entering_museum": "%s betritt das Museum.",
