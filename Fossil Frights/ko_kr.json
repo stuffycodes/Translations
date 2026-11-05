@@ -388,9 +388,6 @@
   "ff.drink.fossil_fizz.effect.water_breathing": "수중 호흡 (20:00)",
   "ff.drink.jurassic_juice": "쥐라기 주스",
   "ff.drink.jurassic_juice.description": "자조의 음료",
-  "ff.drink.pteranadon_twist.description": "부작용으로 통제 불가능한 춤 동작이 포함될 수 있습니다.",
-  "ff.drink.pteranadon_twist.effect.double_jump": "더블 점프 I (1:00)",
-  "ff.drink.pteranadon_twist.effect.jump_boost": "점프 강화 II (1:00)",
   "ff.drink.raptor_rush": "랩터 러시",
   "ff.drink.raptor_rush.description": "라즈베리 맛이 납니다.",
   "ff.drink.raptor_rush.effect.speed": "속도 증가 V (0:15)",
@@ -1164,5 +1161,8 @@
   "ff.lobby.sulfur_strikers.yellow_score": "노랑: %s",
   "ff.lobby.sulfur_strikers.cyan_score": "청록: %s",
   "ff.lobby.sulfur_strikers.yellow_scored": "노랑이 점수를 획득했습니다",
-  "ff.lobby.sulfur_strikers.cyan_scored": "청록이 점수를 획득했습니다"
+  "ff.lobby.sulfur_strikers.cyan_scored": "청록이 점수를 획득했습니다",
+  "ff.drink.pteranodon_twist.effect.double_jump": "더블 점프 I (1:00)",
+  "ff.drink.pteranodon_twist.description": "부작용으로 통제 불가능한 춤 동작이 포함될 수 있습니다.",
+  "ff.drink.pteranodon_twist.effect.jump_boost": "점프 강화 II (1:00)"
 }
