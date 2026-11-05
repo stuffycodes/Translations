@@ -502,9 +502,6 @@
   "ff.drink.fossil_fizz.effect.water_breathing": "水下呼吸（20:00）",
   "ff.drink.jurassic_juice": "侏罗纪果汁",
   "ff.drink.jurassic_juice.description": "一杯充满吐槽的饮料",
-  "ff.drink.pteranadon_twist.description": "副作用可能包括无法控制的舞蹈动作。",
-  "ff.drink.pteranadon_twist.effect.double_jump": "二段跳 I（1:00）",
-  "ff.drink.pteranadon_twist.effect.jump_boost": "跳跃提升 II（1:00）",
   "ff.drink.raptor_rush": "迅猛龙冲刺",
   "ff.drink.raptor_rush.description": "尝起来像覆盆子。",
   "ff.drink.raptor_rush.effect.speed": "速度 V（0:15）",
@@ -2247,5 +2244,8 @@
   "ff.actionbar.heists.loot_security.already_secured": "已经保管",
   "ff.actionbar.heists.loot_security.recently_secured": "刚刚保管过",
   "ff.actionbar.heists.loot_security.in_progress": "已有保安正在保管……",
-  "ff.actionbar.task_book_reminder": "从起始房间获取你的任务书"
+  "ff.actionbar.task_book_reminder": "从起始房间获取你的任务书",
+  "ff.drink.pteranodon_twist.effect.double_jump": "二段跳 I（1:00）",
+  "ff.drink.pteranodon_twist.description": "副作用可能包括无法控制的舞蹈动作。",
+  "ff.drink.pteranodon_twist.effect.jump_boost": "跳跃提升 II（1:00）"
 }
