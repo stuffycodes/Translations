@@ -398,8 +398,6 @@
   "ff.drink.fossil_fizz.effect.fire_resistance": "Lavaresistenz (20:00)",
   "ff.drink.fossil_fizz.effect.resistance": "Dinoresistenz (20:00)",
   "ff.drink.fossil_fizz.effect.water_breathing": "Unterwasseratmung (20:00)",
-  "ff.drink.pteranadon_twist.effect.double_jump": "Doppelsprung I (1:00)",
-  "ff.drink.pteranadon_twist.effect.jump_boost": "Sprungkraft II (1:00)",
   "ff.drink.raptor_rush": "Raptor-Rausch",
   "ff.drink.raptor_rush.description": "Schmeckt nach Himbeeren.",
   "ff.drink.raptor_rush.effect.speed": "Schnelligkeit V (0:15)",
@@ -1113,5 +1111,7 @@
   "ff.task_book.task.count_shells.description.0": "Wir versuchen, ein Auge darauf zu behalten, aber manchmal klauen Leute die Muscheln. Guck nach und stelle sicher, dass alle 5 von ihnen noch auf dem Tisch liegen.",
   "ff.task_book.task.dig_sand.description.0": "Im Wüstentempel ist ein Sandkasten, damit Kinder darin graben können, aber es ist zu viel Sand in der Mitte gehäuft. Kannst du ihn etwas verteilen? Wir haben keine Schaufeln, also benutze einfach deine Hand.",
   "ff.actionbar.heists.loot_security.already_secured": "Bereits abgesichert",
-  "ff.actionbar.heists.loot_security.in_progress": "Eine Wache sichert bereits ab..."
+  "ff.actionbar.heists.loot_security.in_progress": "Eine Wache sichert bereits ab...",
+  "ff.drink.pteranodon_twist.effect.double_jump": "Doppelsprung I (1:00)",
+  "ff.drink.pteranodon_twist.effect.jump_boost": "Sprungkraft II (1:00)"
 }
