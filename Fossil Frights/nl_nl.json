@@ -468,6 +468,7 @@
   "ff.drink.fossil_fizz.description": "Koolzuurhoudend na 60 miljoen jaar, vast wel veilig...",
   "ff.drink.jurassic_juice": "Siluursap",
   "ff.drink.jurassic_juice.description": "Een uitgefaseerd drankje",
+  "ff.drink.pteranodon_twist.description": "Kan oncontroleerbare dansbewegingen als bijwerking hebben.",
   "ff.drink.raptor_rush": "Krijtkick",
   "ff.drink.raptor_rush.description": "Smaakt naar framboos.",
   "ff.drink.raptor_rush.effect.speed": "Snelheid V (0:15)",
@@ -616,9 +617,9 @@
   "ff.security_camera.actionbar.thief_visible.exclamation": "Dief In Beeld!",
   "ff.security_camera.actionbar.thief_visible.prompt": "Druk op %1$s om te Rapporteren",
   "ff.security_camera.actionbar.player_spotted": "%1$s heeft %2$s in %3$s gespot",
-  "ff.survived_to_day": "%1$s heeft tot dag %2$s overleeft.",
-  "ff.beat_time": "%1$s heeft het spel in %2$s uitgespeeld.",
-  "ff.exit_day_reached": "%1$s heeft het tot dat %2$s volgehouden.",
+  "ff.survived_to_day.singular": "%1$s heeft tot dag %2$s overleeft.",
+  "ff.beat_time.singular": "%1$s heeft het spel in %2$s uitgespeeld.",
+  "ff.exit_day_reached.singular": "%1$s heeft het tot dat %2$s volgehouden.",
   "ff.separator.and": " en ",
   "ff.talking_skull": "Pratende Schedel",
   "ff.talking_skull.prompt": "<%1$s> Wil je zien waar mijn sarcofaag tot in staat is? Geef me %2$s en ik zal het je laten zien.",
@@ -894,6 +895,5 @@
   "ff.plaques.ruins_wishing-well.body": "Een oeroude en magische wensput die de koperen bewoners gebruikten om terug naar huis te gaan.\n\nVermoedelijk een voorloper van de \"enderparelstasiskamer\".\n\nDe golems hebben overal op de bovenwereld putten gebouwd zodat ze bij zonsondergang altijd een muntje in de put konden gooien die hen dan naar huis stuurde.",
   "ff.plaques.ruins_ruins.label": "Ruïnes",
   "ff.plaques.ruins_ruins.title": "RUÏNES",
-  "ff.plaques.ruins_ruins.body": "Oeroude onherstelde ruïnes, direct vervoerd vanaf de oorspronkelijke locatie en de geboorteplek van de kopergolems.\n\nRadiometrische datering en de geologische context suggereren dat deze ruïnes ongeveer 100.000 jaar oud zijn.",
-  "ff.drink.pteranodon_twist.description": "Kan oncontroleerbare dansbewegingen als bijwerking hebben."
+  "ff.plaques.ruins_ruins.body": "Oeroude onherstelde ruïnes, direct vervoerd vanaf de oorspronkelijke locatie en de geboorteplek van de kopergolems.\n\nRadiometrische datering en de geologische context suggereren dat deze ruïnes ongeveer 100.000 jaar oud zijn."
 }
