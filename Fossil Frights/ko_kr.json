@@ -388,6 +388,9 @@
   "ff.drink.fossil_fizz.effect.water_breathing": "수중 호흡 (20:00)",
   "ff.drink.jurassic_juice": "쥐라기 주스",
   "ff.drink.jurassic_juice.description": "자조의 음료",
+  "ff.drink.pteranodon_twist.description": "부작용으로 통제 불가능한 춤 동작이 포함될 수 있습니다.",
+  "ff.drink.pteranodon_twist.effect.double_jump": "더블 점프 I (1:00)",
+  "ff.drink.pteranodon_twist.effect.jump_boost": "점프 강화 II (1:00)",
   "ff.drink.raptor_rush": "랩터 러시",
   "ff.drink.raptor_rush.description": "라즈베리 맛이 납니다.",
   "ff.drink.raptor_rush.effect.speed": "속도 증가 V (0:15)",
@@ -503,9 +506,9 @@
   "ff.security_camera.left_hall": "좌측 복도",
   "ff.security_camera.aviary": "조류관",
   "ff.security_camera.eggshibit": "알 전시관",
-  "ff.survived_to_day": "%1$s이(가) %2$s일차를 생존했습니다.",
-  "ff.beat_time": "%1$s이(가) %2$s만에 게임을 클리어했습니다.",
-  "ff.exit_day_reached": "%1$s이(가) %2$s일차에 도달했습니다.",
+  "ff.survived_to_day.singular": "%1$s이(가) %2$s일차를 생존했습니다.",
+  "ff.beat_time.singular": "%1$s이(가) %2$s만에 게임을 클리어했습니다.",
+  "ff.exit_day_reached.singular": "%1$s이(가) %2$s일차에 도달했습니다.",
   "ff.separator.and": " 그리고 ",
   "ff.talking_skull": "말하는 해골",
   "ff.talking_skull.prompt": "<%1$s> 내 석관의 힘을 보고 싶나? %2$s를 내게 주면 보여주지.",
@@ -1161,8 +1164,5 @@
   "ff.lobby.sulfur_strikers.yellow_score": "노랑: %s",
   "ff.lobby.sulfur_strikers.cyan_score": "청록: %s",
   "ff.lobby.sulfur_strikers.yellow_scored": "노랑이 점수를 획득했습니다",
-  "ff.lobby.sulfur_strikers.cyan_scored": "청록이 점수를 획득했습니다",
-  "ff.drink.pteranodon_twist.effect.double_jump": "더블 점프 I (1:00)",
-  "ff.drink.pteranodon_twist.description": "부작용으로 통제 불가능한 춤 동작이 포함될 수 있습니다.",
-  "ff.drink.pteranodon_twist.effect.jump_boost": "점프 강화 II (1:00)"
+  "ff.lobby.sulfur_strikers.cyan_scored": "청록이 점수를 획득했습니다"
 }
