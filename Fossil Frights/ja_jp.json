@@ -496,6 +496,9 @@
   "ff.drink.fossil_fizz.effect.resistance": "恐竜耐性 (20:00)",
   "ff.drink.fossil_fizz.effect.water_breathing": "水中呼吸 (20:00)",
   "ff.drink.jurassic_juice": "ジュラシックジュース",
+  "ff.drink.pteranodon_twist.description": "副作用として、抑えきれないダンスの動きが生じることがあります。",
+  "ff.drink.pteranodon_twist.effect.double_jump": "2段ジャンプ I (1:00)",
+  "ff.drink.pteranodon_twist.effect.jump_boost": "跳躍力上昇 II (1:00)",
   "ff.drink.raptor_rush": "ラプター・ラッシュ",
   "ff.drink.raptor_rush.description": "ラズベリーのような味がする。",
   "ff.drink.raptor_rush.effect.speed": "移動速度上昇 V (0:15)",
@@ -677,9 +680,9 @@
   "ff.security_camera.actionbar.thief_visible.exclamation": "泥棒が見えた！",
   "ff.security_camera.actionbar.thief_visible.prompt": "%1$sで報告する。",
   "ff.security_camera.actionbar.player_spotted": "%1$sは%2$sで%3$sを発見した",
-  "ff.survived_to_day": "%1$sは%2$s日まで生き残った。",
-  "ff.beat_time": "%1$sは%2$sで勝利した。",
-  "ff.exit_day_reached": "%1$sは%2$s日目を迎えた。",
+  "ff.survived_to_day.singular": "%1$sは%2$s日まで生き残った。",
+  "ff.beat_time.singular": "%1$sは%2$sで勝利した。",
+  "ff.exit_day_reached.singular": "%1$sは%2$s日目を迎えた。",
   "ff.guards_win.none": "%2$sの勝利！",
   "ff.separator.and": " と ",
   "ff.talking_skull": "喋る骸骨",
@@ -2139,8 +2142,5 @@
   "ff.task_book.task.water_crops.description.0": "ジャングルの寺院の隣にあるトレイル遺跡の展示エリアで、作物に水をやってもらえるか？ 水風船を手に取って、作物に向かって投げてくれ。",
   "ff.actionbar.heists.loot_security.already_secured": "すでに保護されている",
   "ff.actionbar.heists.loot_security.in_progress": "警備員がすでに警備にあたっている...",
-  "ff.actionbar.task_book_reminder": "スタートの部屋からタスクの本を手に取ってください",
-  "ff.drink.pteranodon_twist.effect.double_jump": "2段ジャンプ I (1:00)",
-  "ff.drink.pteranodon_twist.description": "副作用として、抑えきれないダンスの動きが生じることがあります。",
-  "ff.drink.pteranodon_twist.effect.jump_boost": "跳躍力上昇 II (1:00)"
+  "ff.actionbar.task_book_reminder": "スタートの部屋からタスクの本を手に取ってください"
 }
