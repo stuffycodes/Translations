@@ -476,6 +476,9 @@
   "ff.drink.fossil_fizz.effect.water_breathing": "Подводное дыхание (20:00)",
   "ff.drink.jurassic_juice": "Юрский сок",
   "ff.drink.jurassic_juice.description": "Напиток древности",
+  "ff.drink.pteranodon_twist.description": "Побочные эффекты могут включать в себя неконтролируемые порывы к танцам.",
+  "ff.drink.pteranodon_twist.effect.double_jump": "Двойной прыжок I (1:00)",
+  "ff.drink.pteranodon_twist.effect.jump_boost": "Прыгучесть II (1:00)",
   "ff.drink.raptor_rush": "Рывок раптора",
   "ff.drink.raptor_rush.description": "На вкус как малина.",
   "ff.drink.raptor_rush.effect.speed": "Скорость V (0:15)",
@@ -666,9 +669,9 @@
   "ff.security_camera.actionbar.thief_visible.exclamation": "Замечен вор!",
   "ff.security_camera.actionbar.thief_visible.prompt": "Нажмите %1$s, чтобы доложить.",
   "ff.security_camera.actionbar.player_spotted": "%1$s заметил игрока %2$s в %3$s",
-  "ff.survived_to_day": "%1$s дожил до дня %2$s.",
-  "ff.beat_time": "%1$s прошёл игру за %2$s.",
-  "ff.exit_day_reached": "%1$s добрался до дня %2$s.",
+  "ff.survived_to_day.singular": "%1$s дожил до дня %2$s.",
+  "ff.beat_time.singular": "%1$s прошёл игру за %2$s.",
+  "ff.exit_day_reached.singular": "%1$s добрался до дня %2$s.",
   "ff.separator.and": " и ",
   "ff.talking_skull": "Говорящий череп",
   "ff.talking_skull.prompt": "<%1$s> Желаешь узреть всю мощь моего саркофага? Одари меня %2$s, и получишь желаемое.",
@@ -2141,8 +2144,5 @@
   "ff.actionbar.heists.loot_security.already_secured": "Уже защищено",
   "ff.actionbar.heists.loot_security.recently_secured": "Защищено слишком недавно",
   "ff.actionbar.heists.loot_security.in_progress": "Страж уже защищает...",
-  "ff.actionbar.task_book_reminder": "Возьмите книгу заданий из начальной комнаты",
-  "ff.drink.pteranodon_twist.effect.double_jump": "Двойной прыжок I (1:00)",
-  "ff.drink.pteranodon_twist.description": "Побочные эффекты могут включать в себя неконтролируемые порывы к танцам.",
-  "ff.drink.pteranodon_twist.effect.jump_boost": "Прыгучесть II (1:00)"
+  "ff.actionbar.task_book_reminder": "Возьмите книгу заданий из начальной комнаты"
 }
