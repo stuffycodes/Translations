@@ -543,6 +543,8 @@
   "ff.death.deep_dark_elevator": "%1$s wurde unter einem Fahrstuhl zerquetscht",
   "ff.stats.temple_run": "Temple Run: %s",
   "ff.stats.ant_score": "Ameisenscore: %s",
+  "ff.day_complete": "Tag %s abgeschlossen!",
+  "ff.unlocking": "Entriegelt...",
   "ff.join_queue": "WARTESCHLANGE BEITRETEN",
   "ff.join_party": "PARTY BEITRETEN",
   "ff.spectate": "ZUSCHAUEN",
