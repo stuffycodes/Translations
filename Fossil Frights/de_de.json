@@ -1561,6 +1561,11 @@
   "ff.task_book.difficulty.hard": "SCHWIERIG",
   "ff.task_book.task.count_shells.description.0": "Wir versuchen, ein Auge darauf zu behalten, aber manchmal klauen Leute die Muscheln. Guck nach und stelle sicher, dass alle 5 von ihnen noch auf dem Tisch liegen.",
   "ff.task_book.task.dig_sand.description.0": "Im Wüstentempel ist ein Sandkasten, damit Kinder darin graben können, aber es ist zu viel Sand in der Mitte gehäuft. Kannst du ihn etwas verteilen? Wir haben keine Schaufeln, also benutze einfach deine Hand.",
+  "ff.task_book.task.coffee_top_up.description.0": "Die Kaffeemaschine im Keller ist leer, bitte füll sie auf, bevor die Morgenschicht beginnt. Nicht dass unsere Mitarbeiter einschlafen, bevor sie überhaupt ihren Tag begonnen haben.",
+  "ff.task_book.task.feed_parrot.description.0": "Der Papagei ist entkommen und unser Vogelfutter ist alle. Vögel sind wie Fische... richtig? Nimm etwas Fischfutter und pack es in das leere Nest, hoffentlich kommt er wieder.",
+  "ff.task_book.task.feed_the_fish.description.0": "Bitte fütter die Fische im Aquarium. Im Keller ist Fischfutter, du musst es nur in den automatischen Fischfütterer tun.",
+  "ff.task_book.task.feed_the_plants.description.0": "Eine der fleischfressenden Pflanzen ist zickig geworden und greift ständig Kunden an. Bitte fütter sie mit etwas Zuckerwatte, um sie zu beruhigen.",
+  "ff.task_book.task.wash_muddy_sherd.description.0": "Ich hab versehentlich eine Kiste matschiger Scherben bestellt, sie steht in einer der Ruinen. Kannst du eine nehmen und in das Waschbecken in der Antiken Stätte werfen?",
   "ff.actionbar.heists.loot_security.already_secured": "Bereits abgesichert",
   "ff.actionbar.heists.loot_security.in_progress": "Eine Wache sichert bereits ab..."
 }
