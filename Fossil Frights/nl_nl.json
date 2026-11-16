@@ -376,7 +376,7 @@
   "ff.item.one_time_key": "Eenmalige Sleutel",
   "ff.item.hoverboard": "Hoverboard",
   "ff.item.hoverboard.description.activate": "%s om aan te zetten.",
-  "ff.item.hoverboard.description.dismount": "%s om eraf te stappen.",
+  "ff.item.hoverboard.description.when_riding.dismount": "%s om eraf te stappen.",
   "ff.item.sniffer_dna_cloth": "Snuffelaar-DNA",
   "ff.item.trike_dna_cloth": "Triceratops-DNA",
   "ff.item.t_rex_dna_cloth": "T-Rex-DNA",
