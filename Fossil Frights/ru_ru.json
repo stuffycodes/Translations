@@ -913,10 +913,6 @@
   "ff.sign.foyer.entrance_welcome_sign.1": "Ископаемых",
   "ff.sign.foyer.entrance_welcome_sign.2": "ужасах!",
   "ff.sign.foyer.entrance_welcome_sign.3": "Возьмите карту!",
-  "ff.sign.foyer.baby_t_rex_skeleton.0": "",
-  "ff.sign.foyer.baby_t_rex_skeleton.1": "Скелет",
-  "ff.sign.foyer.baby_t_rex_skeleton.2": "Малыша-Трайка",
-  "ff.sign.foyer.baby_t_rex_skeleton.3": "",
   "ff.sign.foyer.prehistoric_coconut.0": "",
   "ff.sign.foyer.prehistoric_coconut.1": "Доисторический",
   "ff.sign.foyer.prehistoric_coconut.2": "кокос",
@@ -2128,5 +2124,9 @@
   "ff.actionbar.heists.loot_security.already_secured": "Уже защищено",
   "ff.actionbar.heists.loot_security.recently_secured": "Защищено слишком недавно",
   "ff.actionbar.heists.loot_security.in_progress": "Страж уже защищает...",
-  "ff.actionbar.task_book_reminder": "Возьмите книгу заданий из начальной комнаты"
+  "ff.actionbar.task_book_reminder": "Возьмите книгу заданий из начальной комнаты",
+  "ff.sign.foyer.baby_trike_skeleton.0": "",
+  "ff.sign.foyer.baby_trike_skeleton.1": "Скелет",
+  "ff.sign.foyer.baby_trike_skeleton.2": "Малыша-Трайка",
+  "ff.sign.foyer.baby_trike_skeleton.3": ""
 }
