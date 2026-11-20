@@ -188,6 +188,7 @@
   "subtitles.fossil_frights.velociraptor_skull": "Статуя скрипит",
   "subtitles.fossil_frights.hoverboard.disable": "Ховерборд деактивируется",
   "subtitles.fossil_frights.lily_pad_bounce": "Кувшинка пружинит",
+  "subtitles.fossil_frights.goldfish_squeak": "Золотая рыбка пищит",
   "ff.day_count.day": "День %s",
   "ff.day_count.complete": "Завершить День %s",
   "ff.advancement.progression": "Прогресс",
@@ -913,6 +914,10 @@
   "ff.sign.foyer.entrance_welcome_sign.1": "Ископаемых",
   "ff.sign.foyer.entrance_welcome_sign.2": "ужасах!",
   "ff.sign.foyer.entrance_welcome_sign.3": "Возьмите карту!",
+  "ff.sign.foyer.baby_trike_skeleton.0": "",
+  "ff.sign.foyer.baby_trike_skeleton.1": "Скелет",
+  "ff.sign.foyer.baby_trike_skeleton.2": "Малыша-Трайка",
+  "ff.sign.foyer.baby_trike_skeleton.3": "",
   "ff.sign.foyer.prehistoric_coconut.0": "",
   "ff.sign.foyer.prehistoric_coconut.1": "Доисторический",
   "ff.sign.foyer.prehistoric_coconut.2": "кокос",
@@ -1933,7 +1938,7 @@
   "ff.plaques.ruins_jungle-temple.title": "ХРАМ ДЖУНГЛЕЙ",
   "ff.plaques.ruins_jungle-temple.body": "\nЭти одинокие джунглевые храмы создавались сообществами големов-отшельников в качестве гробниц.\n\nИз-за влажности в их месте обитания, они окислялись быстрее других племён.\n\nИсследователи строят теории, что в их обществах смерть играла бо́льшую роль, чем в остальных.",
   "ff.plaques.ruins_pots.title": "УКРАШЕННЫЕ ГОРШКИ",
-  "ff.plaques.ruins_pots.body": "\n\nНа этих древних горшках видны символы, вырезанные медными големами.\n\nХодят слухи, что их хранили под землёй из-за того, что влага от скалков защищала горшки от трещин, пока Стражи охраняли их секреты...",
+  "ff.plaques.ruins_pots.body": "На этих древних горшках видны символы, вырезанные медными големами.\n\nХодят слухи, что их хранили под землёй из-за того, что влага от скалков защищала горшки от трещин, пока Стражи охраняли их секреты...",
   "ff.plaques.ruins_ancient-portal.label.0": "Древний",
   "ff.plaques.ruins_ancient-portal.label.1": "портал",
   "ff.plaques.ruins_ancient-portal.title": "ДРЕВНИЙ ПОРТАЛ",
@@ -2124,9 +2129,5 @@
   "ff.actionbar.heists.loot_security.already_secured": "Уже защищено",
   "ff.actionbar.heists.loot_security.recently_secured": "Защищено слишком недавно",
   "ff.actionbar.heists.loot_security.in_progress": "Страж уже защищает...",
-  "ff.actionbar.task_book_reminder": "Возьмите книгу заданий из начальной комнаты",
-  "ff.sign.foyer.baby_trike_skeleton.0": "",
-  "ff.sign.foyer.baby_trike_skeleton.1": "Скелет",
-  "ff.sign.foyer.baby_trike_skeleton.2": "Малыша-Трайка",
-  "ff.sign.foyer.baby_trike_skeleton.3": ""
+  "ff.actionbar.task_book_reminder": "Возьмите книгу заданий из начальной комнаты"
 }
