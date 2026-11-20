@@ -107,7 +107,6 @@
   "ff.messages.warning.heists_mode_required_to_join_team": "Heist mode must be on to join team.",
   "ff.messages.warning.heists_need_players": "Bone Steals needs one Clubber and one Bad Tribe to start.",
   "ff.messages.warning.heists_start_round_before_edit_loot": "Start steal round. Then change loot.",
-  "ff.messages.warning.hold_reward_item_first": "Hold reward in hand first.",
   "ff.messages.warning.must_invite_before_starting_game": "Invite friend first.",
   "ff.messages.warning.no_active_player": "No player to watch.",
   "ff.messages.warning.no_day_active": "No day now.",
