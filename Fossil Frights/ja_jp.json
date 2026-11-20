@@ -963,6 +963,10 @@
   "ff.sign.foyer.entrance_welcome_sign.1": "へようこそ！",
   "ff.sign.foyer.entrance_welcome_sign.2": "",
   "ff.sign.foyer.entrance_welcome_sign.3": "無料の地図をどうぞ！",
+  "ff.sign.foyer.baby_trike_skeleton.0": "",
+  "ff.sign.foyer.baby_trike_skeleton.1": "トリケラトプスの",
+  "ff.sign.foyer.baby_trike_skeleton.2": "子供の骨格",
+  "ff.sign.foyer.baby_trike_skeleton.3": "",
   "ff.sign.foyer.prehistoric_coconut.0": "",
   "ff.sign.foyer.prehistoric_coconut.1": "先史時代の",
   "ff.sign.foyer.prehistoric_coconut.2": "ココナッツ",
@@ -2184,9 +2188,5 @@
   "ff.task_book.task.water_crops.description.0": "ジャングルの寺院の隣にあるトレイル遺跡の展示エリアで、作物に水をやってもらえるか？ 水風船を手に取って、作物に向かって投げてくれ。",
   "ff.actionbar.heists.loot_security.already_secured": "すでに保護されている",
   "ff.actionbar.heists.loot_security.in_progress": "警備員がすでに警備にあたっている...",
-  "ff.actionbar.task_book_reminder": "スタートの部屋からタスクの本を手に取ってください",
-  "ff.sign.foyer.baby_trike_skeleton.0": "",
-  "ff.sign.foyer.baby_trike_skeleton.1": "トリケラトプスの",
-  "ff.sign.foyer.baby_trike_skeleton.2": "子供の骨格",
-  "ff.sign.foyer.baby_trike_skeleton.3": ""
+  "ff.actionbar.task_book_reminder": "スタートの部屋からタスクの本を手に取ってください"
 }
