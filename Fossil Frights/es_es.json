@@ -84,5 +84,6 @@
   "ff.messages.warning.heists_add_loot_not_implemented": "Añadir Loot aún no está implementado.",
   "ff.messages.warning.heists_already_enabled": "Atracos Prehistóricos ya está activado para esta partida.",
   "ff.messages.warning.heists_enable_after_start": "Atracos Prehistóricos solo puede activarse una vez la partida haya comenzado.",
-  "ff.messages.warning.heists_enable_before_day": "Atracos Prehistóricos debe estar activado antes de que comience el Día 1."
+  "ff.messages.warning.heists_enable_before_day": "Atracos Prehistóricos debe estar activado antes de que comience el Día 1.",
+  "subtitles.fossil_frights.goldfish_squeak": "Goldy chirría"
 }
