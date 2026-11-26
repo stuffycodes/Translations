@@ -36,6 +36,7 @@
   "ff.messages.info.player_ghosted": "%s ist zu einem Geist geworden.",
   "ff.messages.info.player_reincarnated": "%s’s Geist wurde wiederbelebt.",
   "ff.messages.info.player_ghost_left": "%s’s Geist hat das Museum verlassen.",
+  "ff.rejoin.countdown": "Timeout: %s",
   "ff.messages.info.invited_by": "Du wurdest von %s eingeladen.",
   "ff.messages.info.invite_sent": "Einladung an %s gesendet.",
   "ff.messages.info.party_joined": "%s ist der Party beigetreten!",
